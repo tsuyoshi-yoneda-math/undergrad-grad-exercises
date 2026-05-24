@@ -1,3 +1,4 @@
 学部生・大学院生の講義に対するレポート課題コードです。
 
+修正必要unet_diffusion_PyTorch.ipynbと
 download_SP500_csv.ipynbはあえてエラーが出るコードになっています。
